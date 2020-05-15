@@ -1,0 +1,1380 @@
+--Input--
+
+Enter Board
+------------
+Row 0:
+auco
+Row 1:
+nlni
+Row 2:
+osae
+Row 3:
+maie
+
+--Output yes Board--
+
+127142 words loaded 
+
+Enter Board
+------------
+Row 0: a u c o
+Row 1: n l n i
+Row 2: o s a e
+Row 3: m a i e
+
+Show Board (y/n)?: y
+word: an
+Number of Words: 1
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 1 0 0 0
+ 2 0 0 0
+ 0 0 0 0
+ 0 0 0 0
+
+word: anlas
+Number of Words: 2
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 1 0 0 0
+ 2 3 0 0
+ 0 5 4 0
+ 0 0 0 0
+
+word: anoa
+Number of Words: 3
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 1 0 0 0
+ 2 0 0 0
+ 3 0 0 0
+ 0 4 0 0
+
+word: anoas
+Number of Words: 4
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 1 0 0 0
+ 2 0 0 0
+ 3 5 0 0
+ 0 4 0 0
+
+word: ansa
+Number of Words: 5
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 1 0 0 0
+ 2 0 0 0
+ 0 3 4 0
+ 0 0 0 0
+
+word: ansae
+Number of Words: 6
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 1 0 0 0
+ 2 0 0 0
+ 0 3 4 5
+ 0 0 0 0
+
+word: al
+Number of Words: 7
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 1 0 0 0
+ 0 2 0 0
+ 0 0 0 0
+ 0 0 0 0
+
+word: alnico
+Number of Words: 8
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 1 0 5 6
+ 0 2 3 4
+ 0 0 0 0
+ 0 0 0 0
+
+word: als
+Number of Words: 9
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 1 0 0 0
+ 0 2 0 0
+ 0 3 0 0
+ 0 0 0 0
+
+word: also
+Number of Words: 10
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 1 0 0 0
+ 0 2 0 0
+ 4 3 0 0
+ 0 0 0 0
+
+word: ala
+Number of Words: 11
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 1 0 0 0
+ 0 2 0 0
+ 0 0 3 0
+ 0 0 0 0
+
+word: alan
+Number of Words: 12
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 1 0 0 0
+ 0 2 4 0
+ 0 0 3 0
+ 0 0 0 0
+
+word: alans
+Number of Words: 13
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 1 0 0 0
+ 0 2 4 0
+ 0 5 3 0
+ 0 0 0 0
+
+word: alane
+Number of Words: 14
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 1 0 0 0
+ 0 2 4 0
+ 0 0 3 5
+ 0 0 0 0
+
+word: alas
+Number of Words: 15
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 1 0 0 0
+ 0 2 0 0
+ 0 4 3 0
+ 0 0 0 0
+
+word: alae
+Number of Words: 16
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 1 0 0 0
+ 0 2 0 0
+ 0 0 3 4
+ 0 0 0 0
+
+word: un
+Number of Words: 17
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 1 0 0
+ 2 0 0 0
+ 0 0 0 0
+ 0 0 0 0
+
+word: uns
+Number of Words: 18
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 1 0 0
+ 2 0 0 0
+ 0 3 0 0
+ 0 0 0 0
+
+word: ulan
+Number of Words: 19
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 3 1 0 0
+ 4 2 0 0
+ 0 0 0 0
+ 0 0 0 0
+
+word: ulans
+Number of Words: 20
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 3 1 0 0
+ 4 2 0 0
+ 0 5 0 0
+ 0 0 0 0
+
+word: ulna
+Number of Words: 21
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 4 1 0 0
+ 3 2 0 0
+ 0 0 0 0
+ 0 0 0 0
+
+word: cuneal
+Number of Words: 22
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 2 1 0
+ 0 6 3 0
+ 0 0 5 4
+ 0 0 0 0
+
+word: con
+Number of Words: 23
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 1 2
+ 0 0 3 0
+ 0 0 0 0
+ 0 0 0 0
+
+word: coni
+Number of Words: 24
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 1 2
+ 0 0 3 4
+ 0 0 0 0
+ 0 0 0 0
+
+word: cons
+Number of Words: 25
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 1 2
+ 0 0 3 0
+ 0 4 0 0
+ 0 0 0 0
+
+word: consol
+Number of Words: 26
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 1 2
+ 0 6 3 0
+ 5 4 0 0
+ 0 0 0 0
+
+word: cone
+Number of Words: 27
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 1 2
+ 0 0 3 0
+ 0 0 0 4
+ 0 0 0 0
+
+word: coin
+Number of Words: 28
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 1 2
+ 0 0 4 3
+ 0 0 0 0
+ 0 0 0 0
+
+word: coins
+Number of Words: 29
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 1 2
+ 0 0 4 3
+ 0 5 0 0
+ 0 0 0 0
+
+word: clan
+Number of Words: 30
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 3 0 1 0
+ 4 2 0 0
+ 0 0 0 0
+ 0 0 0 0
+
+word: clans
+Number of Words: 31
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 3 0 1 0
+ 4 2 0 0
+ 0 5 0 0
+ 0 0 0 0
+
+word: clon
+Number of Words: 32
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 1 0
+ 4 2 0 0
+ 3 0 0 0
+ 0 0 0 0
+
+word: clons
+Number of Words: 33
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 1 0
+ 4 2 0 0
+ 3 5 0 0
+ 0 0 0 0
+
+word: on
+Number of Words: 34
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 1
+ 0 0 2 0
+ 0 0 0 0
+ 0 0 0 0
+
+word: ons
+Number of Words: 35
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 1
+ 0 0 2 0
+ 0 3 0 0
+ 0 0 0 0
+
+word: one
+Number of Words: 36
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 1
+ 0 0 2 0
+ 0 0 0 3
+ 0 0 0 0
+
+word: na
+Number of Words: 37
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 2 0 0 0
+ 1 0 0 0
+ 0 0 0 0
+ 0 0 0 0
+
+word: nu
+Number of Words: 38
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 2 0 0
+ 1 0 0 0
+ 0 0 0 0
+ 0 0 0 0
+
+word: nun
+Number of Words: 39
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 2 0 0
+ 1 0 3 0
+ 0 0 0 0
+ 0 0 0 0
+
+word: nuncio
+Number of Words: 40
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 2 4 6
+ 1 0 3 5
+ 0 0 0 0
+ 0 0 0 0
+
+word: nuns
+Number of Words: 41
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 2 0 0
+ 1 0 3 0
+ 0 4 0 0
+ 0 0 0 0
+
+word: no
+Number of Words: 42
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 1 0 0 0
+ 2 0 0 0
+ 0 0 0 0
+
+word: nos
+Number of Words: 43
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 1 0 0 0
+ 2 3 0 0
+ 0 0 0 0
+
+word: nom
+Number of Words: 44
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 1 0 0 0
+ 2 0 0 0
+ 3 0 0 0
+
+word: noms
+Number of Words: 45
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 1 0 0 0
+ 2 4 0 0
+ 3 0 0 0
+
+word: noma
+Number of Words: 46
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 1 0 0 0
+ 2 0 0 0
+ 3 4 0 0
+
+word: nomas
+Number of Words: 47
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 1 0 0 0
+ 2 5 0 0
+ 3 4 0 0
+
+word: la
+Number of Words: 48
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 2 0 0 0
+ 0 1 0 0
+ 0 0 0 0
+ 0 0 0 0
+
+word: luna
+Number of Words: 49
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 4 2 0 0
+ 3 1 0 0
+ 0 0 0 0
+ 0 0 0 0
+
+word: lune
+Number of Words: 50
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 2 0 0
+ 0 1 3 0
+ 0 0 0 4
+ 0 0 0 0
+
+word: lo
+Number of Words: 51
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 1 0 0
+ 2 0 0 0
+ 0 0 0 0
+
+word: loam
+Number of Words: 52
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 1 0 0
+ 2 0 0 0
+ 4 3 0 0
+
+word: loams
+Number of Words: 53
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 1 0 0
+ 2 5 0 0
+ 4 3 0 0
+
+word: ne
+Number of Words: 54
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 1 0
+ 0 0 0 2
+ 0 0 0 0
+
+word: nee
+Number of Words: 55
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 1 0
+ 0 0 0 2
+ 0 0 0 3
+
+word: icon
+Number of Words: 56
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 2 3
+ 0 0 4 1
+ 0 0 0 0
+ 0 0 0 0
+
+word: icons
+Number of Words: 57
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 2 3
+ 0 0 4 1
+ 0 5 0 0
+ 0 0 0 0
+
+word: ion
+Number of Words: 58
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 2
+ 0 0 3 1
+ 0 0 0 0
+ 0 0 0 0
+
+word: ions
+Number of Words: 59
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 2
+ 0 0 3 1
+ 0 4 0 0
+ 0 0 0 0
+
+word: in
+Number of Words: 60
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 2 1
+ 0 0 0 0
+ 0 0 0 0
+
+word: inocula
+Number of Words: 61
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 7 5 4 3
+ 0 6 2 1
+ 0 0 0 0
+ 0 0 0 0
+
+word: ins
+Number of Words: 62
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 2 1
+ 0 3 0 0
+ 0 0 0 0
+
+word: os
+Number of Words: 63
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 1 2 0 0
+ 0 0 0 0
+
+word: om
+Number of Words: 64
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 1 0 0 0
+ 2 0 0 0
+
+word: oms
+Number of Words: 65
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 1 3 0 0
+ 2 0 0 0
+
+word: omasa
+Number of Words: 66
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 1 4 5 0
+ 2 3 0 0
+
+word: slain
+Number of Words: 67
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 2 5 4
+ 0 1 3 0
+ 0 0 0 0
+
+word: so
+Number of Words: 68
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 2 1 0 0
+ 0 0 0 0
+
+word: son
+Number of Words: 69
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 3 0 0 0
+ 2 1 0 0
+ 0 0 0 0
+
+word: sol
+Number of Words: 70
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 3 0 0
+ 2 1 0 0
+ 0 0 0 0
+
+word: sola
+Number of Words: 71
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 4 0 0 0
+ 0 3 0 0
+ 2 1 0 0
+ 0 0 0 0
+
+word: solan
+Number of Words: 72
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 4 0 0 0
+ 5 3 0 0
+ 2 1 0 0
+ 0 0 0 0
+
+word: soma
+Number of Words: 73
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 2 1 0 0
+ 3 4 0 0
+
+word: si
+Number of Words: 74
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 0 1 0 0
+ 0 0 2 0
+
+word: ai
+Number of Words: 75
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 2
+ 0 0 1 0
+ 0 0 0 0
+
+word: as
+Number of Words: 76
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 0 2 1 0
+ 0 0 0 0
+
+word: ae
+Number of Words: 77
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 0 0 1 2
+ 0 0 0 0
+
+word: aa
+Number of Words: 78
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 0 0 1 0
+ 0 2 0 0
+
+word: aas
+Number of Words: 79
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 0 3 1 0
+ 0 2 0 0
+
+word: en
+Number of Words: 80
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 2 0
+ 0 0 0 1
+ 0 0 0 0
+
+word: ens
+Number of Words: 81
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 2 0
+ 0 3 0 1
+ 0 0 0 0
+
+word: mo
+Number of Words: 82
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 2 0 0 0
+ 1 0 0 0
+
+word: mon
+Number of Words: 83
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 3 0 0 0
+ 2 0 0 0
+ 1 0 0 0
+
+word: mons
+Number of Words: 84
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 3 0 0 0
+ 2 4 0 0
+ 1 0 0 0
+
+word: mol
+Number of Words: 85
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 3 0 0
+ 2 0 0 0
+ 1 0 0 0
+
+word: mola
+Number of Words: 86
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 4 0 0 0
+ 0 3 0 0
+ 2 0 0 0
+ 1 0 0 0
+
+word: mols
+Number of Words: 87
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 3 0 0
+ 2 4 0 0
+ 1 0 0 0
+
+word: mos
+Number of Words: 88
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 2 3 0 0
+ 1 0 0 0
+
+word: moa
+Number of Words: 89
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+ 0 0 0 0
+ 0 0 0 0
+ 2 0 0 0
+ 1 3 0 0
+word: moas
+Number of Words: 90
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 2 4 0 0
+ 1 3 0 0
+
+word: ma
+Number of Words: 91
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 0 0 0 0
+ 1 2 0 0
+
+word: mas
+Number of Words: 92
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 0 3 0 0
+ 1 2 0 0
+
+word: mason
+Number of Words: 93
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 5 0 0 0
+ 4 3 0 0
+ 1 2 0 0
+
+word: am
+Number of Words: 94
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 0 0 0 0
+ 2 1 0 0
+
+word: is
+Number of Words: 95
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 0 2 0 0
+ 0 0 1 0
+
+word: ism
+Number of Words: 96
+ a u c o
+ n l n i
+ o s a e
+ m a i e
+
+ 0 0 0 0
+ 0 0 0 0
+ 0 2 0 0
+ 3 0 1 0
+
+--Output no Board--
+
+127142 words loaded 
+
+Enter Board
+------------
+Row 0: a u c o
+Row 1: n l n i
+Row 2: o s a e
+Row 3: m a i e
+
+Show Board (y/n)?: n
+word: an
+Number of Words: 1
+word: anlas
+Number of Words: 2
+word: anoa
+Number of Words: 3
+word: anoas
+Number of Words: 4
+word: ansa
+Number of Words: 5
+word: ansae
+Number of Words: 6
+word: al
+Number of Words: 7
+word: alnico
+Number of Words: 8
+word: als
+Number of Words: 9
+word: also
+Number of Words: 10
+word: ala
+Number of Words: 11
+word: alan
+Number of Words: 12
+word: alans
+Number of Words: 13
+word: alane
+Number of Words: 14
+word: alas
+Number of Words: 15
+word: alae
+Number of Words: 16
+word: un
+Number of Words: 17
+word: uns
+Number of Words: 18
+word: ulan
+Number of Words: 19
+word: ulans
+Number of Words: 20
+word: ulna
+Number of Words: 21
+word: cuneal
+Number of Words: 22
+word: con
+Number of Words: 23
+word: coni
+Number of Words: 24
+word: cons
+Number of Words: 25
+word: consol
+Number of Words: 26
+word: cone
+Number of Words: 27
+word: coin
+Number of Words: 28
+word: coins
+Number of Words: 29
+word: clan
+Number of Words: 30
+word: clans
+Number of Words: 31
+word: clon
+Number of Words: 32
+word: clons
+Number of Words: 33
+word: on
+Number of Words: 34
+word: ons
+Number of Words: 35
+word: one
+Number of Words: 36
+word: na
+Number of Words: 37
+word: nu
+Number of Words: 38
+word: nun
+Number of Words: 39
+word: nuncio
+Number of Words: 40
+word: nuns
+Number of Words: 41
+word: no
+Number of Words: 42
+word: nos
+Number of Words: 43
+word: nom
+Number of Words: 44
+word: noms
+Number of Words: 45
+word: noma
+Number of Words: 46
+word: nomas
+Number of Words: 47
+word: la
+Number of Words: 48
+word: luna
+Number of Words: 49
+word: lune
+Number of Words: 50
+word: lo
+Number of Words: 51
+word: loam
+Number of Words: 52
+word: loams
+Number of Words: 53
+word: ne
+Number of Words: 54
+word: nee
+Number of Words: 55
+word: icon
+Number of Words: 56
+word: icons
+Number of Words: 57
+word: ion
+Number of Words: 58
+word: ions
+Number of Words: 59
+word: in
+Number of Words: 60
+word: inocula
+Number of Words: 61
+word: ins
+Number of Words: 62
+word: os
+Number of Words: 63
+word: om
+Number of Words: 64
+word: oms
+Number of Words: 65
+word: omasa
+Number of Words: 66
+word: slain
+Number of Words: 67
+word: so
+Number of Words: 68
+word: son
+Number of Words: 69
+word: sol
+Number of Words: 70
+word: sola
+Number of Words: 71
+word: solan
+Number of Words: 72
+word: soma
+Number of Words: 73
+word: si
+Number of Words: 74
+word: ai
+Number of Words: 75
+word: as
+Number of Words: 76
+word: ae
+Number of Words: 77
+word: aa
+Number of Words: 78
+word: aas
+Number of Words: 79
+word: en
+Number of Words: 80
+word: ens
+Number of Words: 81
+word: mo
+Number of Words: 82
+word: mon
+Number of Words: 83
+word: mons
+Number of Words: 84
+word: mol
+Number of Words: 85
+word: mola
+Number of Words: 86
+word: mols
+Number of Words: 87
+word: mos
+Number of Words: 88
+word: moa
+Number of Words: 89
+word: moas
+Number of Words: 90
+word: ma
+Number of Words: 91
+word: mas
+Number of Words: 92
+word: mason
+Number of Words: 93
+word: am
+Number of Words: 94
+word: is
+Number of Words: 95
+word: ism
+Number of Words: 96
+
